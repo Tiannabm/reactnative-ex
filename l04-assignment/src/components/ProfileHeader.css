@@ -1,0 +1,48 @@
+ion-img {
+    margin-right: 2rem;
+    margin-left: 4rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;;
+    width: auto;
+    height: 150px;
+}
+
+h1 {
+    margin-top: 3rem;
+}
+
+ion-label {
+    color: black;
+}
+
+ p {
+    margin: 2rem;
+ }
+
+ ion-card {
+    margin: 1 rem;
+    border-color: darkgreen;
+ }
+
+ ion-item {
+    padding-left: 20%;
+    padding-right: 20%;
+ }
+
+ ion-label {
+    padding-left: 5%;
+ }
+
+ h4 {
+    padding-left: 1rem;
+ }
+
+ .photoPG {
+    width: 350px;
+    height: auto;
+ }
+
+ ion-header {
+    background-color: bisque;
+ }
+
